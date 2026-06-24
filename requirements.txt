@@ -1,0 +1,4 @@
+neo4j
+langgraph
+google-genai
+python-dotenv
