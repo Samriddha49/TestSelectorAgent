@@ -18,6 +18,12 @@ An AI-powered QA orchestration tool that intelligently maps developer code chang
 
 ---
 
+
+https://github.com/user-attachments/assets/2bfd84c3-4546-46a9-82d3-69ca8c1623d1
+
+
+
+
 ## 📂 Project Structure
 
 ```text
@@ -105,6 +111,7 @@ CREATE (reset)-[:Covered_by]->(tc202)
 CREATE (session)-[:Covered_by]->(tc301);
 
 ```
+<img width="880" height="447" alt="Screenshot 2026-06-25 021433" src="https://github.com/user-attachments/assets/5a319b97-0bba-4bb8-ab67-658ba64fa502" />
 
 ---
 
